@@ -1,0 +1,15 @@
+{
+    "name": "pkmn_team_search_db_extension",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Haroun Ansari",
+    "license": "ISC",
+    "dependencies": {
+        "ws": "^8.8.1"
+    }
+}
